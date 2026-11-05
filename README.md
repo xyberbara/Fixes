@@ -717,3 +717,4 @@
 - [Zenless Zone Zero на PS5: ошибка загрузки «Other download errors» и как её обойти](https://github.com/xyberbara/Fixes/blob/main/zenless-zone-zero-ps5.md)
 - [Как исправить случайное включение зума на iPhone](https://github.com/xyberbara/Fixes/blob/main/zoom-iphone.md)
 - [Zenless Zone Zero: Гача для F2P – Как получить персонажей и избежать выгорания](https://github.com/xyberbara/Fixes/blob/main/zzz-f2p.md)
+- [light-pastel-bleached-wood-grain-texture](https://www.shutterstock.com/image-photo/light-pastel-bleached-wood-grain-texture-2849807693?trackingId=8ef91f75-b47b-4021-95d9-4f42fc034385&listId=undefined)
